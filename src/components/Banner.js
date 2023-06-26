@@ -60,7 +60,7 @@ export const Banner = () => {
                   <p>Mi trabajo consiste en el desarrollo de paginas web, desde el diseño de las mismas como en el desarrollo y su produccion. Actualmente soy free-lancer
                     y normalmente trabajo como frontend developer, sin embargo tambien tengo experiencia en backend.
                   </p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <a href='https://wa.me/message/ZBJ7T7BT77ODA1' className="arrow"><ArrowRightCircle size={25}/></a></button>
+                  
               </div>}
             </TrackVisibility>
           </Col>
