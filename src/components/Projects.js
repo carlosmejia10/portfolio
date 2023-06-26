@@ -52,7 +52,7 @@ export const Projects = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
                 <p>He trabajado en distintos proyectos: una pagina web comercial para un restaurante, paginas basicas de frontend para tiendas online; y algunas apps de backend, en mi ultimo proyecto realize una base de datos
-                  para la organizacion de datos de camaras trampa de deteccion de especies, ademas de esto se realizo una api que permite realizar la busqueda de las especies y datos especificos, ademas se conecto con un frontend, 
+                  para la organizacion de datos de camaras trampa para la deteccion de especies, ademas de esto realize una API que permite  la busqueda de las especies y datos especificos de su captura y caracteristicas propias,Todo esto se conecto con un frontend, 
                   dando la posibilidad de actualizar datos siendo administrador, y buscar datos siendo un usuario comun; Todo con datos de GBIF. </p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
